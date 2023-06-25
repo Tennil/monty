@@ -1,5 +1,8 @@
-0x19. C - Stacks, Queues - LIFO, FIFO
-C
-Group project
-Algorithm
-Data structure
+Implement the push and pall opcodes
+
+Implement the pint opcode.
+
+The pint opcode
+
+The opcode pint prints the value at the top of the stack, followed by a new line.
+
